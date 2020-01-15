@@ -1,0 +1,98 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.logo {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 120px;
+
+	display: block;
+	width: 500px;
+	height: 200px;
+
+}
+
+.icone{
+	width: 20px;
+	height: 20px;
+	margin-left: 325px; 
+}
+
+input{
+	margin-left: 420px;
+	margin-right: auto;
+	margin-top: 50px;
+
+	
+	border-radius: 10rem;
+	background-color: rgba(0,0,0,0.2);
+}
+
+.fa-search{
+	margin-top:-40px;
+	width: 20px;
+	height: 20px;
+	padding: 10px 10px;
+	border-radius: 10rem;
+	background-color: rgba(0,0,0,0.2);
+
+}
+
+
+.para{
+	text-align: center;
+	padding-top: 12px;
+}
+
+.imput1{
+	width: 680px;
+	height: 50px;	
+	margin-left: 0px;
+}
+
+.style1{
+
+	width: 150px;
+	height: 40px;
+	margin-top: 27px;
+    margin-left: 75px;
+	margin-right: 100px;
+}	
+
+
+
+.style2{
+	width: 150px;
+	height: 40px;
+	margin-top: 27px;
+	margin-left: 515px;
+}
+
+.lien{
+	padding-top: 10px;
+	padding-right: 20px;
+	text-align: right;
+
+}
+
+div{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+
+
+.pdiv2{
+	color: #000;
+	background-color: gray;
+}
+
+.pdiv1{
+	color: #000;
+	background-color: gray;
+}
+
